@@ -1,0 +1,1 @@
+Actully app doesnt get crash but facing one issue while implementing facebook login with live application and after many research I get the solution.

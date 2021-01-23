@@ -1,0 +1,4 @@
+
+1. Get the details of devices from client on which app get crash
+2. I will check the version of both devices and will find the root cause
+3. on the basis of root cause will implement better solution(based on library or missing functionality) to get desired result

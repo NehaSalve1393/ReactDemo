@@ -1,0 +1,3 @@
+As per my view the most chalanging task i have perform in 2 projects 
+1. offline online data syncronisation
+2. implementing audio player in raga application
